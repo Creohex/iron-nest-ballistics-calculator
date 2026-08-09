@@ -4,9 +4,11 @@ An unofficial, dependency-free Windows calculator for manual heavy-turret aiming
 
 The calculations follow this [manual aiming and ballistics guide](https://www.treyexgaming.com/iron-nest-heavy-turret-simulator-manual-aiming-ballistics-guide/).
 
+<img width="577" height="438" alt="image" src="https://github.com/user-attachments/assets/11e369ff-058f-4c42-b444-dd212519ae3c" />
+
 ## Requirements
 
-- Win 10/11
+- Win10/11
 - PowerShell
 - English (United States) Windows speech-recognition package
 
@@ -41,7 +43,7 @@ The first reply confirms only the range and recommended charges: `5,250, 3 charg
 
 | Command | Reply |
 | --- | --- |
-| `angle` | Current elevation angle |
+| `angle` | Current calculated elevation angle |
 | `charges` | Current charge count |
 | `distance` | Current range |
 | `repeat` | Last full reply |
