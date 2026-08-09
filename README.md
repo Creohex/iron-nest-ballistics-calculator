@@ -1,8 +1,6 @@
 # IRON NEST Ballistics Calculator
 
-An unofficial, dependency-free Windows calculator for manual heavy-turret aiming in IRON NEST. It continuously listens for an English range, recommends powder charges, and provides the elevation angle on request.
-
-The calculations follow this [manual aiming and ballistics guide](https://www.treyexgaming.com/iron-nest-heavy-turret-simulator-manual-aiming-ballistics-guide/).
+An unofficial, dependency-free aiming calculator in IRON NEST. It continuously listens for an English range, recommends amount of powder charges, and provides the elevation angle on request.
 
 <img width="577" height="438" alt="image" src="https://github.com/user-attachments/assets/11e369ff-058f-4c42-b444-dd212519ae3c" />
 
