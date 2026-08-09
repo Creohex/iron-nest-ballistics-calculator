@@ -58,7 +58,7 @@ Each charge provides 5,000 meters of maximum range at 60 degrees:
 angle = range * 60 / (charges * 5,000)
 ```
 
-Fast aiming is enabled by default: the calculator recommends one charge above the minimum when possible, capped at six charges. Disable the checkbox to use the minimum charge count.
+Faster aiming is enabled by default: the calculator recommends one charge above the minimum when possible, capped at six charges. Disable the checkbox to use the minimum charge count.
 
 Supported range: 1-30,000 meters.
 
